@@ -24,6 +24,6 @@ Features:
 - 1x differential ADC input
 - 8x GPIO
 
-<img width="894" height="812" alt="STM32_SOM_top" src="https://github.com/user-attachments/assets/b9c63888-0909-4976-a3ed-8cf35cd3245a" />
+<img width="894" height="812" alt="STM32_SOM_top" src="Viewables/STM32_top.png" />
 
 
