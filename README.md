@@ -4,7 +4,7 @@ STM32G473 SYSTEM ON MODULE
 This project is a straightforward STM32 based system on module for use in my various projects.
 
 Features:
-- MCU: STM32G473VET6
+- MCU: STM32G473VET6, populated with G474 due to parts availability
 - 128Mbit QSPI onboard flash memory
 - 32.678kHz and 8MHz MEMS oscillators
 - USB interface
