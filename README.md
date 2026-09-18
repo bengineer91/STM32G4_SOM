@@ -12,7 +12,7 @@ Features:
 - 5V to 3.3V LDO, separate LDO for 3.3VA, with select at assembly options for a single regulator or alternate package
 - 2x onboard LEDs
 - 1x on board temperature sensor
-- One connector adhering to the Adafruit EYESPI pinout intended for driving displays
+- One connector adhering to the Adafruit EYESPI pinout intended for driving displays (Connector is mirrored from typical Adafruit pinout - requires an A-A cable instead of the A-B that Adafruit sells)
 - SWD programming on a Tag Connect target pad array
 
 28 Pin Mezzanine connector with configurable IO. Notional initial configuration:
