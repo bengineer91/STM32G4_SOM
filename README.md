@@ -24,23 +24,23 @@ Features:
 - 1x differential ADC input
 - 8x GPIO
 
-Current Test Status:
-[x] indicates tested and works fine
-[x] USB power and data input
-[x] 3.3V digital
-[x] boot and reset switches
-[x] Tag Connect pad array
-[x] Temperature sensor. ~5deg C rise above ambient
-[x] Eyespi: SPI works, touch and sd card not tested. No plans to
-[x] onboard LEDs
-[x] Encoder
-[x] GPIO: PF1, PC15, PB11
-[ ] GPIO: PC6, PC5, PC4, PA5
-[ ] ADCs
-[ ] SPI1
-[x] I2C3
-[ ] QSPI Flash
-[ ] Power path from mezzanine 5V
+Current Test Status:<br/>
+[x] indicates tested and works fine<br/>
+[x] USB power and data input<br/>
+[x] 3.3V digital<br/>
+[x] boot and reset switches<br/>
+[x] Tag Connect pad array<br/>
+[x] Temperature sensor. ~5deg C rise above ambient<br/>
+[x] Eyespi: SPI works, touch and sd card not tested. No plans to<br/>
+[x] onboard LEDs<br/>
+[x] Encoder<br/>
+[x] GPIO: PF1, PC15, PB11<br/>
+[ ] GPIO: PC6, PC5, PC4, PA5<br/>
+[ ] ADCs<br/>
+[ ] SPI1<br/>
+[x] I2C3<br/>
+[ ] QSPI Flash<br/>
+[ ] Power path from mezzanine 5V<br/>
 
 <img width="894" height="812" alt="STM32_SOM_top" src="Viewables/STM32_top.png" />
 
