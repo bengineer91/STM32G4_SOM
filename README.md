@@ -25,9 +25,21 @@ Features:
 - 8x GPIO
 
 Current Test Status:
-[ x ] indicates tested and works fine
-[ x ] USB power and data input
-[ x ] 
+[x] indicates tested and works fine
+[x] USB power and data input
+[x] 3.3V digital
+[x] boot and reset switches
+[x] Tag Connect pad array
+[x] Temperature sensor. ~5deg C rise above ambient
+[x] Eyespi: SPI works, touch and sd card not tested. No plans to
+[x] onboard LEDs
+[x] Encoder
+[x] GPIO: PF1, PC15, PB11
+[ ] GPIO: PC6, PC5, PC4, PA5
+[ ] ADCs
+[ ] SPI1
+[x] I2C3
+[ ] QSPI Flash
 
 <img width="894" height="812" alt="STM32_SOM_top" src="Viewables/STM32_top.png" />
 
