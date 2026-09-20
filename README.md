@@ -24,7 +24,7 @@ Features:
 - 1x differential ADC input
 - 8x GPIO
 
-- Current Test Status:
+Current Test Status:
 [ x ] indicates tested and works fine
 [ x ] USB power and data input
 [ x ] 
