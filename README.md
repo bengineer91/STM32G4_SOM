@@ -40,6 +40,7 @@ Current Test Status:
 [ ] SPI1
 [x] I2C3
 [ ] QSPI Flash
+[ ] Power path from mezzanine 5V
 
 <img width="894" height="812" alt="STM32_SOM_top" src="Viewables/STM32_top.png" />
 
