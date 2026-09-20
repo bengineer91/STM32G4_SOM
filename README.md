@@ -4,7 +4,7 @@ STM32G473 SYSTEM ON MODULE
 This project is a straightforward STM32 based system on module for use in my various projects.
 
 Features:
-- MCU: STM32G473VET6, populated with G474 due to parts availability
+- MCU: STM32G473VET6, populated with G474RC due to parts availability
 - 128Mbit QSPI onboard flash memory
 - 32.678kHz and 8MHz MEMS oscillators
 - USB interface
@@ -23,6 +23,11 @@ Features:
 - 2x single ended ADC inputs
 - 1x differential ADC input
 - 8x GPIO
+
+- Current Test Status:
+[ x ] indicates tested and works fine
+[ x ] USB power and data input
+[ x ] 
 
 <img width="894" height="812" alt="STM32_SOM_top" src="Viewables/STM32_top.png" />
 
